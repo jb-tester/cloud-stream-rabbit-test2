@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mytests.spring.cloudstream</groupId>
-    <artifactId>cloud-stream-rabbit-test0</artifactId>
+    <artifactId>cloud-stream-rabbit-test2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>cloud-stream-rabbit-test0</name>
+    <name>cloud-stream-rabbit-test2</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
